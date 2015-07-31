@@ -1,5 +1,11 @@
 package com.wordpress.ezegrande.drools.attributes.model;
 
+/**
+ * This is domain model
+ * @author xianghya
+ *
+ */
+
 public class Person {
     private String name;
     private Integer age;
